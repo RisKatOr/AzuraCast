@@ -134,6 +134,9 @@ sudo systemctl status nginx
 sudo ufw enable
 ```
 ```
+sudo ufw allow ssh
+```
+```
 sudo ufw allow 'Nginx Full'
 ```
 ```
